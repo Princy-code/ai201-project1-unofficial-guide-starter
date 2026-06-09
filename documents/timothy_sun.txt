@@ -1,0 +1,54 @@
+Professor: Timothy Sun
+Department: Computer Science
+School: San Francisco State University
+Source: Rate My Professors (student reviews)
+
+(8 ratings)
+Would Take Again: 88%
+Level of Difficulty: 2.8 / 5
+
+---
+Review 1 - CSC510 (Jun 4th, 2025)
+Quality: 4.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: D | Attendance: Not Mandatory
+Tags: TOUGH GRADER, GRADED BY FEW THINGS, ACCESSIBLE OUTSIDE CLASS
+Comment: Took this class last semester, and outside the first few classes and test day, no one ever showed up to class. 6 homework assignments that aren't too difficult, and the midterm/final in person. only ended up with such a bad grade because of the 0 on the midterm i got for other reasons, but easy class nonetheless
+
+---
+Review 2 - CSC510 (Jun 11th, 2024)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: B+ | Attendance: Not Mandatory
+Tags: EXTRA CREDIT, AMAZING LECTURES, CARING
+Comment: I recently took CSC 510 with Professor Timothy Sun. The class structure includes 6 homeworks, with 2-3 weeks allotted to complete each one. The homeworks are graded by the TAs, and Professor Sun curves the grades at the end of semester. He provides practice midterm and final with solution. Also, actual exams are similar to practice exams.
+
+---
+Review 3 - CSC510 (Jun 11th, 2024)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS
+Comment: I don't normally rate professors but professor Sun is an exception. Never have i thought i would enjoy learning and writing algorithms so much. He breaks everything down to school level concepts and starts building on. you only have 5 or 6 homework and two tests which are easy, if you don't miss classes. take advantage of the office hours, I DID.
+
+---
+Review 4 - CSC510 (Jun 1st, 2024)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK
+Comment: Took him because Jose's class was full, never regrated it. very clear and helpful on Homework. Ensure that every student has support they need to succeed. 6 homework, 1 midterm,1 final. Always available in Discord, and very humble. And practice exam is best to succeed in exams. No cheat sheet allowed. I think he is the best professor for CSC510.
+
+---
+Review 5 - CSC510 (Apr 11th, 2024)
+Quality: 2.0 | Difficulty: 5.0 | Grade: C | Attendance: Mandatory
+Comment: The way the course material was delivered often left me struggling to grasp the concepts, and the examples provided in lectures didn't effectively clarify the main ideas. I believe there's room for improvement in his teaching method and how he engages with students to enhance their learning experience.
+
+---
+Review 6 - CSC510 (Jan 8th, 2024)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: CLEAR GRADING CRITERIA, HILARIOUS, RESPECTED
+Comment: VERY good at teaching CSC 510. Lectures aren't recorded but slides are uploaded and clear and concise to understand. Homework is easy to understand and follow, I just turned a lot of them in late unfortunately. Practice tests are similar to actual tests, and 1 page of cheat-sheet is allowed. Highly recommend if you're taking CSC 510.
+
+---
+Review 7 - CSC510 (Feb 8th, 2023)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: C | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, RESPECTED, GRADED BY FEW THINGS
+Comment: Great professor, his lectures actually have coherence which is honestly rare for the CS department at SFSU. The material is difficult but I feel like Sun makes it easier with his teaching. Write notes on what he says, not as much on what he has on slides.
+
+---
+Review 8 - CSC510 (Dec 3rd, 2022)
+Quality: 4.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Comment: Timothy is a gentle professor on assignment, his explains ideas in algorithms clear and precisely. HWs are not that hard if you do study materials. This class should be harder, and you should learn more from this topic.

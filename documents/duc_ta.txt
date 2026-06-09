@@ -1,0 +1,247 @@
+Professor: Duc Ta
+Department: Computer Science
+School: San Francisco State University
+Source: Rate My Professors (student reviews)
+
+Overall Quality: 5 / 5 (471 ratings)
+Would Take Again: 99%
+Level of Difficulty: 2.7 / 5
+
+---
+Review 1 - CSC215 (Apr 30th, 2026)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: B+ | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, INSPIRATIONAL
+Comment: Can't wait to take the next 2 courses with Professor Ta! The only professor who is always positive and productive, even during this sad time at State U, despite continued destructive budget cuts and historic admission declines. His courses are still the best. He works super hard. He has a HUGE heart for his students, and he is a gifted educator.
+
+---
+Review 2 - CSC340 (Jan 22nd, 2026)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Work hard, and you will find this professor the best. He cares that you learn and be ready for the demands in the workplace. Always start assignments early and pay attention during lecture. You will enjoy his teaching thoroughly. He is a natural and genuine educator. His materials are enormously useful.
+
+---
+Review 3 - CSC220 (Jan 16th, 2026)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: Uses examples with mickey mouse. Idk what to tell you. its fun. Joke aside, he goes greatly in depth about things that other professors will just gloss over. Stuff professors would allocate 1 week to he does 2. He wants to make sure you actually understand how something works instead of just telling you how to use it.
+
+---
+Review 4 - CSC220 (Jan 16th, 2026)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: EXTRA CREDIT, INSPIRATIONAL, RESPECTED
+Comment: He is the best computer science professor in SFSU. He gives you a lot of opportunities to boost your grade during the semester. His explanations are very clear.
+
+---
+Review 5 - CSC220 (Jan 16th, 2026)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: EXTRA CREDIT, INSPIRATIONAL, RESPECTED
+Comment: He is the best professors I have ever taken in my life. He teaches really well and gives you a lot of opportunities to boost your grade.
+
+---
+Review 6 - CSC220 (Jan 12th, 2026)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: The best educator in the entire history of education! TAKE HIM!!!
+
+---
+Review 7 - CSC220 (Jan 9th, 2026)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, CARING
+Comment: Funny guy, good at making lectures engaging. Great at explaining concepts in depth. For homework, though, ALWAYS start early. You will be crying if you don't. For 220, he scares you with a huge first assignment to weed out quitters. He ensures that he always goes at a pace that the whole class is comfortable with and will answer any questions.
+
+---
+Review 8 - CSC215 (Dec 10th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, RESPECTED
+Comment: My man. He makes learning so fun and effective. He is definitely the best.
+
+---
+Review 9 - CSC340 (Dec 9th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Extremely lucky to have had him for my last 3 courses. I do not believe I will find a better professor than Professor Ta in my life. Extremely grateful. He is a gifted educator who works hard and loves his students. He genuinely cares and possesses endless patience. He is a gem at SFSU.
+
+---
+Review 10 - CSC340 (Dec 2nd, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Professor Ta designed his courses thoroughly and properly. He makes proper adjustments along the way. This takes hard work, passion, experience, and a big heart. Not to mention his natural outstanding ability to teach so effectively, which by itself alone already sets him superior to any other professors at State U. Hats off.
+
+---
+Review 11 - CSC220 (Dec 1st, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: He is very kind, and he can really teach. He structures this course in a way that best benefits students. Regardless of how hectic this fall semester has been, this course has already managed a massive review, lots of good practices every lecture, and good projects. Professor taught all topics carefully. He taught the Google data structures too.
+
+---
+Review 12 - CSC215 (Nov 27th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, RESPECTED
+Comment: His approach is unique. Cant copy his style because he is adaptive to each student. It was so fun to watch him come up with personalized examples right on the spot to help students understand the most abstract and difficult concepts in OOP. He cares. He is passionate. He is so experienced and skillful at teaching. He works hard. Lucky to have him.
+
+---
+Review 13 - CSC340 (Nov 25th, 2025)
+Quality: 5.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Fortunately enrolled in his CSC 340 but would wait a semester or a year if I have to. This professor is magical. He knows how to teach the dumbest, like me, to love the subject. I was ready to quit but now doing well. I am grateful to him. His courses are fantastic. Better work hard even though he pressures noone never. He shows the path. U choose.
+
+---
+Review 14 - CSC340 (Nov 24th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: B+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES
+Comment: His 340 beats the other 340 in the department by far. Intense but always fun learning. Advanced materials. He prepares you to compete for the demanding jobs. A big picture guy. He does not waste your or his time on the typical petty classroom issues. He is a great educator. Unique and hyper effective teaching style. He has a charming personality.
+
+---
+Review 15 - CSC220 (Nov 24th, 2025)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: B+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: The best students in the department take his courses. He never cuts corners. He starts the semester with a huge review. He covers all topics and the additional ones. All topics are taught carefully and discussed in much detail and great depth. He provides a wide range of support. Prof. Ta is phenomenal in teaching and management. Engaging lectures.
+
+---
+Review 16 - CSC220 (Nov 24th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING
+Comment: I appreciate how he cares for students' future rather than just a passing grade for the course. He tries every lecture to transfer the knowledge, teach problem-solving techniques, and train us on how to think. His simple life stories are encouraging and calling. I like how he can explain both difficult CS concepts and abstract life matters. Best.
+
+---
+Review 17 - CSC215 (Nov 22nd, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: CLEAR GRADING CRITERIA, INSPIRATIONAL
+Comment: I learned a great deal this semester in his 215 class. Enrolled in his 220 for spring. I will take all of his courses. His lectures are so good. He can explain difficult concepts and make them fun to absorb. His reviews are helpful and take us to advanced learning. His packages and the file manager are better than any textbooks.
+
+---
+Review 18 - CSC220 (Nov 22nd, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Prof. Ta is stellar, but never stops trying to give more to his students and the community at State U. I have known him for a long time. Both my kids and I took his courses here. Most professors only deliver the lecture. Professor Ta cares about the learning, individual development, and future of each student. Not possible without a heart. Respect.
+
+---
+Review 19 - CSC220 (Nov 21st, 2025)
+Quality: 2.0 | Difficulty: 5.0 | Grade: A+ | Attendance: Mandatory
+Comment: Most lectures go on about him guilt tripping the class about budget cuts. Course starts with a massive grueling culling assignment that made i think 75% of the class drop or move sections. Then afterwards the assignments became baby easy with constant delays after deadlines. I seriously dont understand why this guy has as high ratings as he does.
+
+---
+Review 20 - CSC215 (Sep 17th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Best of the best. He is knowledgeable. He is so effective at getting knowledge straight to your head. He created a lot of good materials and gives them FREE to students. The packages are better than textbooks. He can come up with new and interesting examples on the spot. He wont move on until you understand. His patience is endless. He is genuine.
+
+---
+Review 21 - CSC220 (Aug 31st, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: He was amazing from the first to the last day of the semester. He has endless patience and so much of energy and positivity. He always has a smile ready for students. He created so many opportunities to encourage and support students. His teaching is unmatched. I believe he is the best because he loves what he does and he is simply gifted. Amazing!
+
+---
+Review 22 - CSC340 (Aug 22nd, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: A professor who is good at what he is doing, loves what he is doing, and cares about what he is doing is Professor Duc Ta. He is gold standard. It was amazing to be his student for my last 3 courses 215, 220, and 340. I wish he had more time to teach more courses in this department. This department needs him. But he is doing a lot. The Best EVER!!!
+
+---
+Review 23 - CSC220 (Aug 21st, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: He is gifted. It is hard to find a teacher who is so good at teaching and connecting to students like he is. He is very patient with students. He gives many recaps and reviews. He has a good example for anything. His examples are fun. They help students learn in the most natural way.
+
+---
+Review 24 - CSC340 (Aug 17th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: I took his class this Summer. He is the best professor in SFSU. His lectures are amazing. He is very helpful and understanding. He inspires us a lot. You will be amazed by his teaching style and how amazing he is.
+
+---
+Review 25 - CSC220 (Aug 12th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: His summer 220 was so good. He works extremely hard and helped us learn a great amount. He gives students no pressure but motivation and guidance. Be ready work or simply just give it up and find a better time when you can give learning your priority. He is always there to support. He gives free education. Kind, casual, intelligent he is.
+
+---
+Review 26 - CSC220 (Aug 7th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Take him! He is the best of the best. You will learn a lot from him even in the summer. Professor is an outstanding educator and leader. He is inspiring. He does not just teach. He reaches out to every student. He has students' best interests at heart. He works extremely hard. His approach is effective and relatable.
+
+---
+Review 27 - CSC340 (Aug 7th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Just finished 340 this summer with him. I wish I had been able to take all of his courses. Professor Ta's 340 course was the best thing happened in my student life. He is amazing at teaching. Time goes by so fast in his class, lots of information but lots of fun. He wants students to succeed. He fights for student success. *hats off to him
+
+---
+Review 28 - CSC220 (Jun 27th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: The best human being ever lived on earth. My man 100%.
+
+---
+Review 29 - CSC340 (Jun 26th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Tags: GIVES GOOD FEEDBACK, INSPIRATIONAL, CARING
+Comment: Taking this course with him in summer. He is no double the best professor I ever had. Knowledgeable but approachable and personable. His teaching is easy to understand but goes deep and hits home. He is so organized and always focusing on what is best for students. He makes it possible to every student to succeed even in the summer. He cares.
+
+---
+Review 30 - CSC340 (Jun 12th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, CARING
+Comment: Spring, Summer, and Fall. His courses are always the best. Supportive, resourceful, well-designed projects, and energetic + engaging lecture.
+
+---
+Review 31 - CSC215 (Jun 3rd, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, RESPECTED
+Comment: Professional educator and kind human being. His courses are ZERO cost. He give his book for free to all students. He save them in convenient PDF format files so students can take notes on their devices. They are labeled packages. His lecture is super engaging.
+
+---
+Review 32 - CSC215 (May 7th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, RESPECTED
+Comment: Outstanding is an understatement. Professor Duc Ta is so much loved by students for many reasons. Thanks!
+
+---
+Review 33 - CSC215 (Apr 30th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Not just a teacher and boss, Professor Ta is an educator and leader. He brings the best out of each student and empowers them to succeed.
+
+---
+Review 34 - CSC215 (Apr 17th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, INSPIRATIONAL
+Comment: His lecture is better than those in private universities. His large lecture teaching is better than those pricey private tutoring services. It is nothing less than a fortune to have him at State U.
+
+---
+Review 35 - CSC215 (Apr 17th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: His patience is endless. 6 weeks of reviews at the beginning of the semester. Always willing and happy to answer any question then invites more questions. He always checks in to make sure everyone understands before moving on. So many reviews and had no problems repeating a same package for 4 times. He is very sincere, professional, and respectful.
+
+---
+Review 36 - CSC215 (Apr 15th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Professor works tirelessly and is always willing to repeat or change his explanation until every student understands. Appreciate his hard work. He always gives a review before starting his lecture.
+
+---
+Review 37 - CSC215 (Apr 15th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Simply amazing! He is teaching a huge lecture course. Many students were not prepared properly for college and probably should not major in computer science, but Professor Ta works so hard to make it possible for all students. Hats off!
+
+---
+Review 38 - CSC220 (Apr 9th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Outstanding educator with heart and integrity!
+
+---
+Review 39 - CSC215 (Apr 4th, 2025)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, RESPECTED
+Comment: He is young but wise. He knows how to maneuver thorough the most difficult times. He always put students first and is willing to do everything within his power for students. Amazing professor and human being. Most engaging lectures. Respect.
+
+---
+Review 40 - CSC215 (Feb 11th, 2025)
+Quality: 5.0 | Difficulty: 2.0 | Would Take Again: Yes | Grade: A+ | Attendance: Not Mandatory
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: The best professor. He cares and he can.

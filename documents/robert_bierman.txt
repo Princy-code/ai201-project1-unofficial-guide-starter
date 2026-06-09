@@ -1,0 +1,335 @@
+Professor: Robert Bierman
+Department: Computer Science
+School: San Francisco State University
+Source: Rate My Professors (student reviews)
+
+Overall Quality: 3 / 5 (112 ratings)
+Would Take Again: 44%
+Level of Difficulty: 4.1 / 5
+
+---
+Review 1 - CSC415 (Apr 9th, 2026)
+Quality: 1.0 | Difficulty: 5.0 | Grade: D | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: Professor Bierman is a TOUGH grader. And is extremely intimidating. Will randomly call on you in class and judges you for answering incorrectly. Attendance is mandatory as well. Gives you a 1 on assignments if you use AI. He also waits till the last day to grade your assignments so you don't know how you are doing until last minute.
+
+---
+Review 2 - CSC415 (Apr 1st, 2026)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: D+ | Attendance: Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Professor Robert Bierman is an inspirational instructor whose passion makes OS engaging and meaningful. His class helped me truly understand core concepts, though it's very challenging. If you're serious about learning, this is the class for you
+
+---
+Review 3 - CSC415 (Apr 1st, 2026)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: F | Attendance: Mandatory
+Tags: HILARIOUS, CARING, ONLINE SAVVY
+Comment: Can't recommend this OS course enough! I started with no clue what an OS was, and now I'm leaving with way more confidence and knowledge. Huge shoutout to Professor Bierman, he is very funny, engaging, and his assignments vastly leveled up my coding. He'll push you past vibe coding / weed out vibe coders, so you'll actually understand the material!
+
+---
+Review 4 - CSC415 (Jan 26th, 2026)
+Quality: 2.0 | Difficulty: 5.0 | Grade: B | Attendance: Mandatory
+Comment: not an easy class. he is good in class teaches well and interatcive classes but assignments are tough and he will take forever to grade literally till last date. if you use any AI you get a 1/100 so be smart about that
+
+---
+Review 5 - CSC415 (Dec 26th, 2025)
+Quality: 4.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: I can see why he is controversial. Expectations aren't always communicated clearly. But, he gives you points back for an artificial "curve." I learned a lot from this class, the assignments were fun, and I am a better programmer now. It gets better after month 1 - Bierman's main objective early on is to get you to try harder. Go to office hours.
+
+---
+Review 6 - CSC415 (Dec 4th, 2025)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A+ | Attendance: Mandatory
+Tags: AMAZING LECTURES, INSPIRATIONAL, HILARIOUS
+Comment: Professor Bierman is by far the greatest professor in Computer Science. His assignments will engage and challenge you and make you a much better programmer then when you first walked into his class.
+
+---
+Review 7 - CSC415 (Dec 4th, 2025)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, INSPIRATIONAL
+Comment: Everyone rating bierman badly has a massive skill issue.
+
+---
+Review 8 - 256 (Dec 2nd, 2025)
+Quality: 4.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Mandatory
+Tags: CLEAR GRADING CRITERIA, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS
+Comment: Classic tough but fair professor. If you miss 5 classes you fail automatically but going to the lectures is necessary to do the homework anyway. Take good notes a lot of the time in class examples will be exactly the same on quizzes. Assignments are graded EXACTLY on the rubric so follow it like gospel. This class can be fun if you let it be :)
+
+---
+Review 9 - CSC415 (Nov 4th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Grade: C | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: Expect tough assignments that take forever to get graded. The professor often accuses students of using AI or plagiarizing, and it's almost impossible to dispute. Feedback is vague, and classes feel long, harsh, and exhausting. If you have to take this course, balance it with something lighter. Avoid all his classes!
+
+---
+Review 10 - CSC415 (Sep 17th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS
+Comment: The reviews are very right. Very dismissive to students and always ask questions in class. And TOO BAD, he teach all the CSC415 classes. Find a way to avoid his class. Super bad or on purpose over class time. Expecting are very high to students. Can see why he is only the teacher at school. Make sure to evaluate him the end of semester, please!
+
+---
+Review 11 - CSC415 (Aug 6th, 2025)
+Quality: 2.0 | Difficulty: 5.0 | Grade: B- | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: Don't use AI, you have been warned. Grades brutally don't expect anymore than a 80 percent for assignments. Amazing lecturer however is extremely dismissive towards students and the tension was palpable in class. Assignments are unnecessarily hard and dont correlate heavily towards in class topics you will struggle mostly because of C.
+
+---
+Review 12 - 256 (Aug 5th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Grade: C+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, BEWARE OF POP QUIZZES
+Comment: JUST DO NOT TAKE HIM!!! ESPECIALLY DURING SUMMERS, HIS ASSIGNMENTS ARE TOUGH, HE TEACHES AS IF HIS STUDENTS ARE PhD GRADS, INSUFFERABLE AND IRREPAIRABLE DAMAGE TO MY GPA, GRIND HARDER THAN USUAL, HE IS A VERY TOUGH GRADER AND LAUGHS AT FAILURE, DOESNT GIVE TOO MANY OPPORTUNITIES, PLEASE AVOID HIM AT ALL COST
+
+---
+Review 13 - CSC415 (Jun 19th, 2025)
+Quality: 3.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, AMAZING LECTURES
+Comment: I agree with the 5 star reviews AND the 1 star reviews. He is an amazing professor. Extremely smart and able to explain complicated topics but he also just seems like a mean person. I get that it can be frustrating to have students who don't care, but he's also needlessly cruel quite often. He stifles in class discussion by being very dismissive
+
+---
+Review 14 - CSC415 (Jun 10th, 2025)
+Quality: 2.0 | Difficulty: 5.0 | Grade: D+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LECTURE HEAVY
+Comment: He is very knowledgeable and very good at what he does, one of the best professors at SFSU, however, his class was hard and not so good. Instructions in HW are vague so you gotta spend a lot of time figuring them out and even if the code works, he deducts quite a lot of points. Grades everything at the very last day so no feedback. Don't be late!!!
+
+---
+Review 15 - CSC415 (Jun 4th, 2025)
+Quality: 3.0 | Difficulty: 5.0 | Grade: D | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: Class was everything billed up to be & more. Make sure you take this class with a light class load, bcuz this class WILL take up a majority of your time. Do the participation quizzes to get all the points, because the homework assignments (file system....) are brutal. Attendance is mandatory & show up ON TIME + do the weekly quizzes. Nice curve tho
+
+---
+Review 16 - CSC415 (Jun 2nd, 2025)
+Quality: 4.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, RESPECTED, LECTURE HEAVY
+Comment: He has very engaging lectures that contain information that every CS major HAS to know. The assignments are difficult and should be started right away. Takes plagiarism very seriously, don't do it. Harsh grading on homework. Weekly quizzes. -1 point because he takes forever to grade. This class is painful but necessary. Learn some C beforehand.
+
+---
+Review 17 - CSC415 (May 31st, 2025)
+Quality: 3.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: You have to build thick skin because others said he's rude and sarcastic. Despite that, he knows the topic well and wants you to succeed. Make groups early on and plan your project accordingly. hw/projects are incredibly difficult with little time to complete. He's the only teacher for this trial by fire class. You will become a better programmer.
+
+---
+Review 18 - CSC415 (May 31st, 2025)
+Quality: 2.0 | Difficulty: 5.0 | Grade: C+ | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: He took too much time to grade the assignment. For example, it was graded on the last day of the grading period, so we couldn't get feedback to improve. He also gave us a lot of stress in class by constantly asking questions.
+
+---
+Review 19 - CSC415 (May 21st, 2025)
+Quality: 1.0 | Difficulty: 4.0 | Grade: B+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: Most students rate Professor Bierman high or low for the exact same reason: his class is tough, and you will either enjoy the challenge or hate it. However, I am giving him a 1 because he demands a lot from his students but does the BARE MINIMUM grading little until the semester ends. Expects students to be hard working while being VERY LAZY.
+
+---
+Review 20 - CSC415 (May 20th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Grade: C | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS
+Comment: Aside from his miserable attitude and rude, sarcastic comments, he does not provide feedback or grade the first few assignments until the latter half of the semester. If you don't answer questions correctly he will keep on grilling you. There's also too many assignments with short turn around to digest the material properly. Avoid if you can.
+
+---
+Review 21 - CSC415 (May 17th, 2025)
+Quality: 4.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, PARTICIPATION MATTERS
+Comment: Bierman fear mongers a lot at the start but he chills off towards the end of the semester. He is very strict and can be ruthless at times, but honestly I learned more from him than any other professor in the cs department (which considering the state of, makes sense why he's so strict). Definitely wouldn't say he's the best but also not horrible.
+
+---
+Review 22 - CSC415 (May 14th, 2025)
+Quality: 4.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: C | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LECTURE HEAVY
+Comment: Heard a lot of horrible things about Bierman and will confirm a lot it is true. He makes your life miserable and is overly strict... however at the same time he also genuinely wants you to do well in your career and is very knowledgeable. Just be prepared to take this class seriously and brush up on your C skills and you will be fine.
+
+---
+Review 23 - 256 (May 5th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Attendance: Mandatory
+Tags: TOUGH GRADER
+Comment: Just do not take him!
+
+---
+Review 24 - CSC415 (Apr 14th, 2025)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: A-
+Tags: TOUGH GRADER, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: One of the few CS professors at SFSU who truly teaches. Projects, especially the filesystem one, are tough—surrounding yourself with motivated friends helps a lot. Many struggle by procrastinating or skipping office hours. Put in the effort and you'll pass, getting an A takes real dedication and true understanding of certain topics.
+
+---
+Review 25 - CSC415 (Mar 15th, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: He assigns overly difficult projects in a unrealistic timeline then accuses the entire class of cheating. He often yells at students and shows little respect, making it hard to ask questions or learn effectively. Instead of fostering education, he creates unnecessary pressure and hostility that harms students' curiosity to CS. Shame on him.
+
+---
+Review 26 - CSC415 (Feb 21st, 2025)
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER
+Comment: Absolutely miserable professor that is guaranteed on tenure. Does not care about the students success at all and is very unwilling to help students succeed in any way. Asking questions is giving yourself up to be yelled at, his discord barely hears from him, and god forbid you go to his office hours. Absolute nightmare that needs to retire asap.
+
+---
+Review 27 - CSC415 (Nov 8th, 2024)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: A- | Attendance: Mandatory
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, CLEAR GRADING CRITERIA
+Comment: This man is a blessing to SFSU. Some of the best lectures I have experienced in the world of computer science. People calling him outdated don't know what they are talking about and probably think writing an operating system in javascript is a good idea.
+
+---
+Review 28 - CSC415 (Oct 19th, 2024)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: C+ | Attendance: Mandatory
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA, INSPIRATIONAL
+Comment: I stepped foot into this class fearing Mr.Bierman based off what I've heard from others, but he's actually a genuine guy. Just make sure to submit quizzes on time! He also does ask students questions so make sure to pay attention.
+
+---
+Review 29 - CSC415 (Sep 23rd, 2024)
+Quality: 1.0 | Difficulty: 4.0 | Grade: B+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: Brags about himself and how great of a coder he is. He does not want to accept and adapt to the new technology. very vague assignments and limited resources. I firmly belive if this class is removed from the list of required graduation classes, not a single student will go to this dumpster fire.
+
+---
+Review 30 - CSC415 (Aug 12th, 2024)
+Quality: 4.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, PARTICIPATION MATTERS
+Comment: Tough grader, One of the most knowledgeable cs lecturer in sfsu, if you like coding in C and interested in OS you will have a fun. Tons of coursework within a short period of time. This is like 2 classes combined into one class. (CSC415). I enjoyed learning his lecture. I am looking forward to take his CSC615 next semester.
+
+---
+Review 31 - CSC415 (Aug 5th, 2024)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, HILARIOUS
+Comment: One of the best professors at SFSU. If you are looking for a job that is related to low-level computer, his class will build you a road to success. His class is hard, 6 assignments in total + a group project and each assignment took me an average of 6-10 hours to complete but positive side if you take every assignment seriously you will learn a lot
+
+---
+Review 32 - CSC415 (Jul 15th, 2024)
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Attendance: Mandatory
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: save yourself
+
+---
+Review 33 - CSC415 (Jun 3rd, 2024)
+Quality: 5.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: hardest class you will ever take at this university. Robert is a very caring professor who really tests your ability to understand the concepts and how to code properly. As a result I got better than I ever thought I possibly could be.There's a big group project choose your members wisely. Really buy in to what and how he is teaching this class.
+
+---
+Review 34 - CSC415 (May 21st, 2024)
+Quality: 5.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A- | Attendance: Not Mandatory
+Tags: GROUP PROJECTS, AMAZING LECTURES, CLEAR GRADING CRITERIA
+Comment: This is the most valuable professor sf state has, he is extremely knowledgeable. After taking his class I no longer trust the internet, no one knows C better than Bierman, his word is the Bible. This class is the most important class you will take no matter what the discipline you go into. You learn how to learn and how to PLAN. Good luck.
+
+---
+Review 35 - CSC415 (May 21st, 2024)
+Quality: 4.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A | Attendance: Not Mandatory
+Tags: EXTRA CREDIT, INSPIRATIONAL, HILARIOUS
+Comment: I love Bierman. His class was so easy. The file system I did on my own. It wasn't too much to care about. It can easily be done within a week. I highly recommend Bierman as he is the nicest lecturer you can find at SFSU. Don't feel scared of him. He looks a little scary because he is from New York, but at the end of the day he is a lovely person.
+
+---
+Review 36 - CSC415 (May 21st, 2024)
+Quality: 4.0 | Difficulty: 1.0 | Would Take Again: Yes | Grade: A- | Attendance: Not Mandatory
+Tags: CLEAR GRADING CRITERIA, INSPIRATIONAL, HILARIOUS
+Comment: Professor Bierman (aka Bobby B) is a super chill professor! The class is kinda difficult but if you pay attention in lecture its fine
+
+---
+Review 37 - CSC415 (May 9th, 2024)
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Attendance: Mandatory
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: Worst teacher throughout my entire college life. does not give feedback on time. vague assignments, no assistance. Hope they replace him soon.
+
+---
+Review 38 - CSC415 (Feb 1st, 2024)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: B+ | Attendance: Mandatory
+Tags: GET READY TO READ, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: I recommend him. This class consists of 6 assignments and a final project that gives more than a month to complete the project in a group of 4 people.
+
+---
+Review 39 - CSC415 (Jan 20th, 2024)
+Quality: 2.0 | Difficulty: 5.0 | Grade: Not sure yet | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: Very interesting lecturer but I cannot in good conscience rate this professor higher as he does not grade anything until the last minute. He has EXTREMELY strict and harsh grading rubrics yet does not grade anything on time. Massive disservice to students who want feedback to improve their coding skills.
+
+---
+Review 40 - CSC415 (Jan 8th, 2024)
+Quality: 2.0 | Difficulty: 4.0 | Grade: B- | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: Retook his 415 class to get a passing grade. Bierman is a VERY mixed bag regarding CSC 415. He's the only person teaching the class and others can attest to how tough he is. At the same time, he's passionate about CS and he WANTS you to succeed. It's just that 415 is trial by C programming language fire and you better pray that everything works.
+
+---
+Review 41 - CSC415 (Dec 28th, 2023)
+Quality: 3.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: The professor is difficult because he expects his students to be adults. I would recommend taking easier classes when you take this course. His course is programming and quiz heavy.
+
+---
+Review 42 - CSC415 (Nov 27th, 2023)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Mandatory
+Tags: GET READY TO READ, GROUP PROJECTS, CARING
+Comment: I highly recommand him. He has recording videos which are really helpful. there is online quizes end of each chapter. It is better to start studying operating system before taking csc 415. His office hours are helpful. Final exam is in two parts.
+
+---
+Review 43 - CSC415 (Nov 27th, 2023)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: Not sure yet | Attendance: Not Mandatory
+Tags: GET READY TO READ, EXTRA CREDIT, GROUP PROJECTS
+Comment: I recommend to know C language before taking csc 415. Operating System is hard but he explain it really in details. I like his lectures, and also he record his lectures which helped me alot. He love students and he is doing his best. 6 individual assignments and 1 group file system project. 15% final exam. He gives extra credit as well.
+
+---
+Review 44 - CSC415 (Oct 5th, 2023)
+Quality: 2.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, ACCESSIBLE OUTSIDE CLASS
+Comment: Bierman could be a great lecturer if he wasnt so busy. Poor man has to teach every section of 415 and it's obvious hes overwhelmed. Keep all of this in mind as you read the other reviews. Hes the kind of lecturer that asks rhetorical questions after rhetorical questions. His office hours are invaluable, SO GO TO THEM.
+
+---
+Review 45 - CSC415 (Sep 18th, 2023)
+Quality: 5.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, AMAZING LECTURES
+Comment: I'll level with you: this was the hardest class I've ever taken. It was also the most I've learned in a class during my entire undergraduate experience. Curb your expectations when entering this trial by fire and you'll come out a better programmer and student.
+
+---
+Review 46 - 256 (Aug 15th, 2023)
+Quality: 1.0 | Difficulty: 5.0 | Grade: D | Attendance: Mandatory
+Tags: TOUGH GRADER, GET READY TO READ, GRADED BY FEW THINGS
+Comment: I know you all feel the same way i do. extremely picky with the homework, laughs at his own jokes, smiles at failure. students beg for opportunities, he laughs. homework is extremely difficult to understand only tells you to look at the instructions for help yet he grades so horribly wrong its immoral. please avoid him. save yourself.
+
+---
+Review 47 - CSC317 (Aug 11th, 2023)
+Quality: 1.0 | Difficulty: 5.0 | Grade: C+ | Attendance: Mandatory
+Tags: TOUGH GRADER, LECTURE HEAVY, TEST HEAVY
+Comment: He is extremely picky & nothing is ever good enough. He will give you homework and it is extremely vague, so once you turn it in you lose almost all your points because the requirements weren't met. Loves to see his students fail, and when you ask a question he'll tell you just to read the instructions. Take anyone else & save yourself.
+
+---
+Review 48 - CSC415 (Aug 7th, 2023)
+Quality: 5.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: C | Attendance: Mandatory
+Tags: TOUGH GRADER, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: Everyone elses reviews accurately depict the difficulty of his class. But they are too harsh on him as a person. He has a strong NY personality which is probably what people latch onto when they say he is "the worst." but if you lean into it and joke with him, it can be the most fun class. Dont take over summer. You think you want to, but you dont.
+
+---
+Review 49 - CSC317 (May 3rd, 2023)
+Quality: 2.0 | Difficulty: 4.0 | Grade: B+ | Attendance: Mandatory
+Comment: I was so excited to learn web dev and Bierman ruined it! My friend told me he was a good teacher, but difficult, nope! All lies. His lectures were boring, I had to teach myself everything. Then when it comes to assignments he is so nit-picky and gives awful grades. I thought I was going to get a C but then he bumps up everyones grades a looooot. :|
+
+---
+Review 50 - CSC415 (Apr 6th, 2023)
+Quality: 5.0 | Difficulty: 5.0 | Would Take Again: Yes | Grade: B- | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: Professor Bierman is H A R D!! Yes. BUT HES A GREAT PROFESSOR. IDK why he gets a bad rep. Oh yeah maybe cuz he's a "bit rude" but honestly... I don't think so. People are just overly sensitive. He's a great professor with extensive knowledge in his field. This is one of the few classes that actually prepares you for the real world.
+
+---
+Review 51 - CSC415 (Apr 6th, 2023)
+Quality: 5.0 | Difficulty: 3.0 | Would Take Again: Yes | Grade: C | Attendance: Mandatory
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, AMAZING LECTURES
+Comment: Prof. Bierman's tough but brilliant, with vast computer science knowledge. Lectures are engaging & clear, fostering a strong foundation. Encourages questions & listens to students. Toughness drives success & critical thinking. Fair grading with curve. He's my favorite tbh
+
+---
+Review 52 - CSC415 (Mar 8th, 2023)
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Attendance: Mandatory
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: Sometimes when I wake up on Tues/Thurs, a tear trickles down my eye as I lay in bed just because I know the wrath of Bierman is approaching. (FYI, make sure you know everything about C before taking this intro to C class!)
+
+---
+Review 53 - CSC415 (Jan 31st, 2023)
+Quality: 1.0 | Difficulty: 5.0 | Grade: Drop/Withdrawal | Attendance: Mandatory
+Comment: I went to the first class, didnt meet prereqs. I left I was going to get dropped. I didnt talk to him My experience within those 30 minutes: Horrendous Attitude Yelling Scolding an adult 10 minutes late infront of whole class (He had valid reason) Raising his voice Extremely grumpy Uninviting Loud/Rude Uncooperative On power trip Talked down
+
+---
+Review 54 - CSC615 (Dec 21st, 2022)
+Quality: 5.0 | Difficulty: 4.0 | Would Take Again: Yes | Grade: B+ | Attendance: Mandatory
+Tags: TOUGH GRADER, GROUP PROJECTS, RESPECTED
+Comment: I did not like professor Bierman when I first took his class. He was a harsh grader, gave a lot of work, and had one of the most difficult projects (file system) in the CS course. But now that I have taken CSC615 I know that he did those things for a good reason, which is to challenge students so they can be prepared for what is outside of school.
+
+---
+Review 55 - CSC415 (Dec 13th, 2022)
+Quality: 3.0 | Difficulty: 5.0 | Grade: A | Attendance: Mandatory
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: This class was just as brutal as people made it out to be. The assignments were on another level of difficult. Do not cheat. He will catch you, and this will make the course a much worse experience for you. So many people dropped out/ghosted once he caught them, and it's not worth the stress of getting reported or kicked out of the degree.
