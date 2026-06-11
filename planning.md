@@ -1,122 +1,121 @@
-# Project 1 Planning: The Unofficial Guide
-
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
----
+# Planning — The Unofficial Guide
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Student opinions about what SFSU professors are actually like to take — teaching
+style, grading toughness, workload, exam structure, and whether they're a good
+fit for beginners. The source material is Rate My Professors reviews for 10
+professors across Computer Science, Communication Studies, Economics, and
+Mathematics.
 
----
+This knowledge is hard to find through official channels because the university
+publishes course catalogs and requirements, but not candid, first-hand accounts
+of what a class is *like* — whether the exams track the lectures, whether the
+professor grades late, whether attendance really matters. That signal lives
+only in student-to-student reviews.
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+10 documents, one per professor, cleaned from Rate My Professors:
+- Timothy Sun (CSC 510) — 8 reviews
+- Duc Ta (CSC 215/220/340) — 40 reviews
+- Shahrukh Humayoun (CSC 642) — 11 reviews
+- Jose Ortiz-Costa (CSC 510/648/675/230) — 35 reviews
+- Anthony Souza (CSC 101/317/413/415) — 50 reviews
+- Omar Kudsi (COMM 150/250/521) — 41 reviews
+- Robert Bierman (CSC 415) — 55 reviews
+- Venoo Kakar (ECON 102) — 42 reviews
+- Vera Klimkovsky (MATH 124, stats/calc) — 35 reviews
+- Mary Halloran (MATH 110/124/225, stats/calc) — 40 reviews
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-
----
+Total: 357 reviews. Raw pages were copied manually from RMP (its reviews are
+JavaScript-rendered and block scrapers) and cleaned with `ingest.py`, which
+strips navigation, ads, "Similar Professors," rating-distribution widgets, vote
+counts, and footers — keeping each review's quality, difficulty, course, date,
+grade, attendance, tags, and comment text.
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
+**One review = one chunk. Minimal overlap.**
 
-**Chunk size:**
+Each RMP review is a self-contained opinion, roughly 200–600 characters / 2–4
+sentences (e.g. "Tough grader, grades late, but I learned a lot — go to office
+hours."). That natural unit is exactly what a user query wants back, so the
+chunk boundary follows the review boundary (the `---` separators in the cleaned
+files).
 
-**Overlap:**
+- **Chunk size:** one review (no fixed character count — split on review
+  boundaries, not arbitrary lengths).
+- **Overlap:** little to none. Overlap exists to avoid splitting a single
+  thought across two chunks, but each review is *already* a complete thought
+  with a hard boundary, so there's nothing to bridge.
 
-**Reasoning:**
+Why not the alternatives:
+- *Too small* (one sentence): would separate "He's a tough grader" from "but I
+  learned a lot," losing the nuance reviewers actually express.
+- *Too large* (a whole professor as one chunk): a query about grading would pull
+  back all ~50 of a professor's reviews, drowning the relevant opinion in noise.
 
----
+[DECISION TO CONFIRM: should the embedded text be the comment alone, or comment
++ professor name + course + rating? Note your choice and one sentence on why —
+think about how a query like "which CS prof is good for beginners?" needs the
+professor's name/department present in the chunk to retrieve well.]
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
+Embedding model: `all-MiniLM-L6-v2` via `sentence-transformers` (runs locally,
+no API key, no rate limits). Vector store: ChromaDB (local).
 
-**Embedding model:**
-
-**Top-k:**
-
-**Production tradeoff reflection:**
-
----
+[GUIDING QUESTIONS — answer briefly in your own words:
+- How many chunks (top-k) should retrieval return to give the LLM enough
+  context without diluting it? (Start k=4–5; you'll tune after seeing results.)
+- Why does semantic search find relevant reviews even when the query doesn't use
+  the same words as the review? (One sentence on embeddings/meaning vs keywords.)]
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
+Five test questions, each with a specific answer checkable against the documents:
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-
----
+1. **Is Professor Bierman a tough grader?**
+   Expected: Yes — reviews overwhelmingly describe him as a tough/harsh grader
+   who grades assignments very late in the semester.
+2. **Which professor is a good choice for someone new to CS?**
+   Expected: Anthony Souza (and/or Duc Ta) — repeatedly praised for clear,
+   beginner-friendly teaching and breaking concepts down.
+3. **Does Duc Ta give extra credit or chances to boost your grade?**
+   Expected: Yes — multiple reviews mention extra-credit opportunities and
+   chances to raise your grade.
+4. **Is Jose Ortiz-Costa an easy A?**
+   Expected: No — reviews repeatedly say "not an easy A," challenging but
+   rewarding if you put in the work.
+5. **What is the workload like in Bierman's CSC 415?**
+   Expected: Heavy — lots of homework plus a difficult group file-system
+   project; reviews warn to take it with a light course load.
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
-
-1.
-
-2.
-
----
-
-## Architecture
-
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
----
+[What could go wrong? Consider, in your own words:
+- Contradictory reviews (e.g. Bierman has 5-star ratings on failing grades, and
+  1-star ratings calling him the best) — how should the system handle a
+  professor people disagree about?
+- A query about a professor or topic not in the 10 documents — the system should
+  say it doesn't have enough info, not invent an answer.
+- Short reviews ("Easy A.", "save yourself") that carry little semantic signal.]
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+[Which parts will you use an AI tool (Claude) to help implement? Name them, e.g.:
+- Generating the chunking script from this spec
+- Generating the embedding + ChromaDB loading + retrieval function
+- Generating the Groq grounding prompt + Gradio interface
+Note: you wrote this spec and your evaluation questions yourself; AI is used to
+turn the spec into code, which you then review.]
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
+## Architecture
 
-**Milestone 3 — Ingestion and chunking:**
+[Add a simple pipeline diagram showing the five stages. A Mermaid block or even
+an ASCII sketch is fine. Label each stage with its tool:
 
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**
+Document Ingestion (ingest.py) -> Chunking (one review = one chunk)
+  -> Embedding (all-MiniLM-L6-v2) -> Vector Store (ChromaDB)
+  -> Retrieval (top-k semantic search) -> Generation (Groq llama-3.3-70b)]
