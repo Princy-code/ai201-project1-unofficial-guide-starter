@@ -158,12 +158,12 @@ The context is formatted as numbered review blocks (`[Review 1]\n...\n[Review 2]
 
 **Instance 1**
 
-- *What I gave the AI:* The full `ingest.py` requirements from `planning.md` — strip RMP boilerplate, keep quality/difficulty/course/date/grade/attendance/tags/comment per review, write structured `---`-delimited output — plus a sample of raw RMP page text showing how the page was laid out.
-- *What it produced:* A `parse_reviews()` function that split on `QUALITY` markers and extracted fields. The initial version treated any all-caps line as a tag, which caused long all-caps student comments (e.g. "JUST DO NOT TAKE HIM!!!") to be silently dropped instead of kept as the comment.
-- *What I changed or overrode:* Added the `KNOWN_TAGS` set (matching RMP's fixed tag vocabulary exactly) so the parser distinguishes tags from all-caps comments by set membership rather than just case. This preserved comments that students wrote in all caps and prevented data loss.
+- *What I gave the AI:* The `ingest.py` requirements from `planning.md` plus a sample of raw RMP page text.
+- *What it produced:* A `parse_reviews()` function that treated any all-caps line as a tag, which caused all-caps student comments (e.g. "JUST DO NOT TAKE HIM!!!") to be silently dropped.
+- *What I changed or overrode:* Added a `KNOWN_TAGS` set matching RMP's fixed tag vocabulary so the parser distinguishes tags from all-caps comments by set membership, not just case.
 
 **Instance 2**
 
-- *What I gave the AI:* The `generate.py` design from `planning.md` — retrieve top-k chunks from ChromaDB, pass them as context to Groq llama-3.3-70b-versatile, return a grounded answer with source attribution — plus the five evaluation questions as a test suite.
-- *What it produced:* A working `answer()` function with a system prompt that said "answer only using the provided reviews." The initial system prompt did not specify what to say when evidence was missing, so the model occasionally produced hedged guesses ("It's possible that…") rather than a clean non-answer.
-- *What I changed or overrode:* Tightened the grounding instruction to include the exact fallback phrase ("I don't have enough information on that.") and added `temperature=0` to make outputs deterministic. This made the failure mode explicit and testable: if that exact string appears in the output, retrieval missed — and the failure case in Question 3 confirmed this behavior directly.
+- *What I gave the AI:* The `generate.py` design from `planning.md` — retrieve top-k chunks, pass to Groq, return a grounded answer.
+- *What it produced:* An `answer()` function with a generic "answer only using the provided reviews" system prompt, no specified fallback when evidence was missing.
+- *What I changed or overrode:* Added the exact fallback phrase ("I don't have enough information on that.") and set `temperature=0` so the failure mode is clean and testable rather than a hedged guess.
