@@ -94,7 +94,6 @@ Five test questions, each with a specific answer checkable against the documents
 
 ## Anticipated Challenges
 
-[What could go wrong? Consider, in your own words:
 - Contradictory reviews (e.g. Bierman has 5-star ratings on failing grades, and
   1-star ratings calling him the best) — how should the system handle a
   professor people disagree about?
@@ -104,17 +103,11 @@ Five test questions, each with a specific answer checkable against the documents
 
 ## AI Tool Plan
 
-[Which parts will you use an AI tool (Claude) to help implement? Name them, e.g.:
 - Generating the chunking script from this spec
 - Generating the embedding + ChromaDB loading + retrieval function
 - Generating the Groq grounding prompt + Gradio interface
-Note: you wrote this spec and your evaluation questions yourself; AI is used to
-turn the spec into code, which you then review.]
 
 ## Architecture
-
-[Add a simple pipeline diagram showing the five stages. A Mermaid block or even
-an ASCII sketch is fine. Label each stage with its tool:
 
 Document Ingestion (ingest.py) -> Chunking (one review = one chunk)
   -> Embedding (all-MiniLM-L6-v2) -> Vector Store (ChromaDB)
